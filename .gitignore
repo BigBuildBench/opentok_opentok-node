@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.vscode
+*.log
+sample/*/package-lock.json
+out/
+.nyc_output
+coverage.lcov
+mocha.lcov
+jasmine.lcov
